@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         adv=findViewById(R.id.adView);
 
+
         String AppID="ca-app-pub-7527296650503295~9745504649";
         MobileAds.initialize(this,AppID);
 
